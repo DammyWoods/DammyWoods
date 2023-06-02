@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Dammy Woods! 👋
 
-<!--
-**DammyWoods/DammyWoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+My name is Damilola Obimuyiwa-Olatimigiri. I'm a passionate data scientist/analyst and I love working with Python, SQL, PowerBI and Excel to build creative and impactful projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Python
+- Databases: PostgreSQL, MySQL
+- Version Control: Git, GitHub
+- Analytics tool: PowerBI
+
+## 📫 Get in Touch
+
+- Email: damilolaobimuyiwa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/damilola-obimuyiwa-olatimigiri/
+- Portfolio: https://github.com/DammyWoods
+
+Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
+
+Happy coding! 🎉
